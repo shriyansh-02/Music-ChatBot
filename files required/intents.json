@@ -39,7 +39,7 @@
          "patterns": ["I am doing great", "I am well", "Im great", "awesome", "happy", "better"],
          "responses": ["Oh thats funny you actually thought I cared. You crack me up.", "Wow you thought I cared. I hope you have a bad day tomorrow."],
          "context_filter": "how_are_you" 
-        },
+        }, 
         {"tag": "doing_badly",
          "patterns": ["not great", "not well", "not good", "bad", "badly", "terrible", "horrible", "awful", "sad"],
          "responses": ["Awe thats unfortunate.", "Hate to hear it."],
