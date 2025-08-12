@@ -1,10 +1,10 @@
-# Music&me Chatbot Song Recommender System
+# Music Chatbot Song Recommender System
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/82326026/132090844-b7567cf9-2080-407a-8e1c-28700eb7b339.png" alt="Logo" width="250" height="80">
 </p>
 <p align="center">
-Music&me Chatbot Song Recommender System
+Music Chatbot Song Recommender System
 </p>  
   
   
