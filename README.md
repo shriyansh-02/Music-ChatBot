@@ -25,8 +25,6 @@ Music&me Chatbot Song Recommender System
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
   
@@ -92,24 +90,6 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request.
 
-## Contact
-- [Komal Sangwan](https://github.com/KomalSangwan): Frontend Developer
-   
-   LinkedIn - https://www.linkedin.com/in/komal-sangwan-27a054208/
-- [Riya Chaudhary](https://github.com/RiyaGit06): Backend Developer
-    
-    LinkedIn - https://www.linkedin.com/in/riya-chaudhary-a13884216/
-- [Srishti Gupta](https://github.com/Srishti20022): Backend Developer
-    
-    LinkedIn - https://www.linkedin.com/in/srishti-gupta-7250b8203/
-    
-## Acknowledgements
-
-* [CRIO PROJECTS](https://www.crio.do/projects/)
-* [ALYSSAM GOULD](https://github.com/alyssamgould/chatbot/blob/master/intents.json)
-* [IBM](https://cloud.ibm.com/)
-* [LAST.FM SONGS](https://www.last.fm/)
-* [ANVIL FRAMEWORK](https://anvil.works/)
 
 ## Final View of Project
 
@@ -135,13 +115,6 @@ Contributions are what make the open source community such an amazing place to l
 ![Screenshot (4197)](https://user-images.githubusercontent.com/82352524/132103697-67d01cb9-a307-4916-a54e-ca701c192560.png)
 ![Screenshot (4201)](https://user-images.githubusercontent.com/82352524/132103739-49e7d128-8473-4b94-b867-6c8d4356476a.png)
 ![Screenshot (4204)](https://user-images.githubusercontent.com/82352524/132103804-c71037f2-572b-418d-8e4d-6b553fd016fa.png)
-
-#### 4. About Us
-![Screenshot (4220)](https://user-images.githubusercontent.com/82352524/132104014-d75e0b6b-bc92-4b96-b82c-df7b7598734c.png)
-![Screenshot (4222)](https://user-images.githubusercontent.com/82352524/132104030-0799ae8e-cd5c-466e-b99f-9b9097367c57.png)
-![image](https://user-images.githubusercontent.com/82352524/132104141-895898a7-e970-4269-8b9e-c8f2e92e1060.png)
-
-
 
 
 
